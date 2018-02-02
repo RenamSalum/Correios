@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: MeuPrimeiroProjeto
+Implementation-Version: 1.0
+Built-By: renan.apolinario
+Implementation-Vendor-Id: br.com.meu.projeto
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/MeuPrimeiroP
+ rojeto/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

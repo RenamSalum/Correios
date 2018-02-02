@@ -1,0 +1,6 @@
+br\com\financiamento\executartest\ExecutarTest.class
+br\com\financiamento\pages\PageObjetctClass.class
+Console.class
+br\com\financiamento\steps\business\StepBusiness.class
+br\com\financiamento\steps\definition\StepDefinition.class
+br\com\financiamento\acceptance\DefaultAcceptanceTestRunner.class

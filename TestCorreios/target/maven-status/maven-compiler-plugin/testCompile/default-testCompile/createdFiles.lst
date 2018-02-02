@@ -1,0 +1,5 @@
+br\com\correios\runner\ExecutarTest.class
+br\com\correios\acceptance\DefaultAcceptanceTestRunner.class
+br\com\correios\steps\business\StepBusiness.class
+br\com\correios\steps\definition\StepDefinition.class
+br\com\correios\pages\PageObjetctClass.class
